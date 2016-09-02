@@ -2,7 +2,7 @@
   "name": "iban",
   "main": "iban.js",
   "version": "0.0.6-smartbank",
-  "homepage": "https://github.com/arhs/iban.js",
+  "homepage": "https://github.com/Smartbank/iban.js#master",
   "description": "IBAN & BBAN validation, formatting and conversion in JavaScript",
   "keywords": [
     "iban",
